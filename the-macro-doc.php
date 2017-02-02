@@ -7,5 +7,6 @@ Description: A full featured macro-nutrient calcualtor provided by Dr. Joe Klemc
 Version: 1.0
 Author: The Zooxinator
 Author URI: http://URI_Of_The_Plugin_Author
-License: A "Slug" license name e.g. GPL2
+License: GPL2
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
