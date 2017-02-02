@@ -9,5 +9,5 @@ Author: The Zooxinator
 Author URI: http://URI_Of_The_Plugin_Author
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+<<<<<<< HEAD
 */
-
