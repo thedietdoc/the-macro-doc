@@ -73,7 +73,7 @@ function macrodoc_register_profile() {
 	register_post_type( 'profile', $args );
 }
 
-add_action( 'init', 'macrodoc_register_profile' );
+//add_action( 'init', 'macrodoc_register_profile' );
 
 
 //add_action('my_custom_action', 'something_to_do');
