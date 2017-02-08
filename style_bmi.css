@@ -1,0 +1,270 @@
+/*form input {
+	width: 50%;
+	border: 1px solid #f00 !important;
+}
+*/
+
+.calcValues {
+	display: none;
+}
+
+#bmibmrCalc{
+	/*width: 100%;
+	border: 1px solid #B9B9B9;
+	padding: 10px;*/
+}
+
+.calcValues #bmibmrCalc label{
+	width: 60px;
+	float: left;
+	text-align: right;
+	padding-right: 5px;
+}
+
+
+.calcValues .sexOption input {
+	margin-top: 7px;
+}
+.calcValues .sTitle {
+	font-size: 19px;
+	font-weight: bold;
+	padding-right: 27px !important;
+}
+
+#saveBData {
+	color: #fff;
+	background: #C93939;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 20px;
+}
+#saveBData:hover {
+	color: #eee;
+	background: #FF0000;
+}
+
+.uListbmibmr {
+	font-size: 12px;
+}
+.uListbmibmr span{
+	font-weight: bolder;
+	font-size: 14px;
+}
+
+.calcValues  input {
+	width: 30%;
+	margin-top: 7px;
+}
+
+#bmibmrCalc select {
+	width: 30%;
+}
+
+/*.calcValues {
+	text-align: 
+}*/
+
+
+
+
+/*BMR css*/
+
+.sexOption label {
+	float: none !important;
+}
+
+
+.bmibmrOption {
+	/*background: #E9E9E9;*/
+	padding: 10px;
+	text-align: center;
+	margin-bottom: 10px;
+	font-size: 1.2em;
+	font-weight: bolder;
+}
+/*
+.bmibmrOption hr{
+	margin-bottom: 0;
+}
+*/
+
+.textRow {
+	width: 100%;
+	border-bottom: 1px solid #7C7C7C;
+	float: left;
+}
+
+.vertText {
+ 	width: 100%;
+  	float: left;
+  	background: #BEBEBE;
+  	text-align: center;
+  	font-weight: bold;
+}
+
+.horTextOne {
+	width: 90%;
+  	float: left;
+}
+
+.selectAdal {
+	width: 6%;
+  	float: left;
+  	display: block;
+  	padding-left: 5px;
+}
+.selectAdal input{
+  	width: 1.2em;
+  	height: 1.2em;
+}
+
+.adalLevel {
+	  min-height: 120px;
+	  overflow: auto;
+	  background: #ECECEC;
+	  border-top: 5px solid #7C7C7C;
+}
+
+.bfatguide {
+	background: #eee;
+	border: 1px solid #BDBDBD;
+	padding: 5px;
+	margin: 10px 0;
+	display: none;
+}
+
+.bfatguide p{
+	margin-bottom: 24px;
+	font-size: 0.8em;
+}
+
+#f_close {
+	float: right;
+	width: 100%;
+	text-align: right;
+	text-decoration: none;
+}
+
+.bfatguide input{
+	background: #F7EFC6;
+}
+
+
+#bodyf_calc {
+	color: #24890d;
+	text-decoration: none;
+	border: 1px solid #B4B4B4;
+	padding: 5px;
+	background: #fff;
+}
+
+.bodyFat_cont input{
+	width: auto !important;
+}
+
+.bodyFat_cont{
+	padding: 7px;
+	background: #eee;
+}
+
+
+.calc-left {
+	font-family: 'Open Sans', sans-serif;
+    float: left;
+    min-width: 98px;
+    float: left;
+    border: 1px solid #9FB9A7;
+    width: 17%;
+    background: #007F4C;
+    -webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	text-align: center;
+}
+
+.calc-right {
+    border: 1px solid #222;
+    width: 76%;
+    float: left;
+}
+
+.calc-left ul  {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+.calc-left ul li ul li {
+	list-style-type: none;
+	cursor: pointer; 
+	cursor: hand;
+	font-style:normal;
+	font-size: 15px;
+	background: #fff;
+	color: #266829;
+	text-align: left;
+padding-left: 10px;
+}
+
+.ltitle div{
+	padding: 5px 0 2px 0;
+	font-size: 12px;
+	list-style-type: none;
+	color: #65CA81;
+}
+
+.bootstrap-scope .nav > li > a {
+padding: 0px 15px !important;
+}
+
+.bootstrap-scope .btn {
+	padding: 4px 7px !important;
+}
+
+.textcenter {
+	text-align: center;
+}
+
+.bootstrap-scope label {
+	font-weight: normal !important;
+	font-size: 12px;
+}
+
+.bootstrap-scope input {
+	width: 20px;
+	height: 20px;
+}
+
+.calcbtn {
+	width: 50%;
+	margin-top: 10px !important;
+	margin-bottom: 10px !important;
+}
+
+#bmiloggedin {
+	clear: both;
+}
+
+.modal {
+    overflow: auto !important;
+}
+
+#hiddenppath {
+    display: none;
+}
+
+#hiddenuserid {
+    display: none;
+}
+
+.clientitem {
+    display: block;
+    padding: 0 5px;
+}
+
+.clientitem:hover {
+    background-color: #F4F2EC;
+    cursor: pointer; cursor: hand;
+}
